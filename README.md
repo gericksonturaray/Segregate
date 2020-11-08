@@ -1,0 +1,2 @@
+# Segregate
+ Exercise01
